@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\bin\Debug\netcoreapp2.1\Anagramsub.deps.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\bin\Debug\netcoreapp2.1\Anagramsub.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\bin\Debug\netcoreapp2.1\Anagramsub.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\bin\Debug\netcoreapp2.1\Anagramsub.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\bin\Debug\netcoreapp2.1\Anagramsub.pdb
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\obj\Debug\netcoreapp2.1\Anagramsub.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\obj\Debug\netcoreapp2.1\Anagramsub.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\obj\Debug\netcoreapp2.1\Anagramsub.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\obj\Debug\netcoreapp2.1\Anagramsub.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\obj\Debug\netcoreapp2.1\Anagramsub.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\AnagramSub\Anagramsub\obj\Debug\netcoreapp2.1\Anagramsub.pdb

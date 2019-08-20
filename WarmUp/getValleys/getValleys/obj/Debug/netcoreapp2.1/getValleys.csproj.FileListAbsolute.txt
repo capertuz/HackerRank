@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\bin\Debug\netcoreapp2.1\getValleys.deps.json
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\bin\Debug\netcoreapp2.1\getValleys.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\bin\Debug\netcoreapp2.1\getValleys.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\bin\Debug\netcoreapp2.1\getValleys.dll
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\bin\Debug\netcoreapp2.1\getValleys.pdb
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\obj\Debug\netcoreapp2.1\getValleys.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\obj\Debug\netcoreapp2.1\getValleys.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\obj\Debug\netcoreapp2.1\getValleys.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\obj\Debug\netcoreapp2.1\getValleys.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\obj\Debug\netcoreapp2.1\getValleys.dll
+C:\Users\caper\source\repos\hackerrank\getValleys\getValleys\obj\Debug\netcoreapp2.1\getValleys.pdb

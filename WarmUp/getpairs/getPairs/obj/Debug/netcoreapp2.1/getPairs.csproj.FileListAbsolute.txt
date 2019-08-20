@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\obj\Debug\netcoreapp2.1\getPairs.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\obj\Debug\netcoreapp2.1\getPairs.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\obj\Debug\netcoreapp2.1\getPairs.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\obj\Debug\netcoreapp2.1\getPairs.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\bin\Debug\netcoreapp2.1\getPairs.deps.json
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\bin\Debug\netcoreapp2.1\getPairs.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\bin\Debug\netcoreapp2.1\getPairs.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\bin\Debug\netcoreapp2.1\getPairs.dll
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\bin\Debug\netcoreapp2.1\getPairs.pdb
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\obj\Debug\netcoreapp2.1\getPairs.dll
+C:\Users\caper\source\repos\hackerrank\getpairs\getPairs\obj\Debug\netcoreapp2.1\getPairs.pdb

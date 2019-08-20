@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\bin\Debug\netcoreapp2.1\FrequencyQueries.deps.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\bin\Debug\netcoreapp2.1\FrequencyQueries.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\bin\Debug\netcoreapp2.1\FrequencyQueries.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\bin\Debug\netcoreapp2.1\FrequencyQueries.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\bin\Debug\netcoreapp2.1\FrequencyQueries.pdb
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\obj\Debug\netcoreapp2.1\FrequencyQueries.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\obj\Debug\netcoreapp2.1\FrequencyQueries.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\obj\Debug\netcoreapp2.1\FrequencyQueries.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\obj\Debug\netcoreapp2.1\FrequencyQueries.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\obj\Debug\netcoreapp2.1\FrequencyQueries.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\FrequencyQueries\FrequencyQueries\obj\Debug\netcoreapp2.1\FrequencyQueries.pdb

@@ -1,0 +1,10 @@
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\bin\Debug\netcoreapp2.1\JumpClouds.deps.json
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\bin\Debug\netcoreapp2.1\JumpClouds.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\bin\Debug\netcoreapp2.1\JumpClouds.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\bin\Debug\netcoreapp2.1\JumpClouds.dll
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\bin\Debug\netcoreapp2.1\JumpClouds.pdb
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\obj\Debug\netcoreapp2.1\JumpClouds.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\obj\Debug\netcoreapp2.1\JumpClouds.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\obj\Debug\netcoreapp2.1\JumpClouds.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\obj\Debug\netcoreapp2.1\JumpClouds.dll
+C:\Users\caper\source\repos\hackerrank\jumpClouds\JumpClouds\obj\Debug\netcoreapp2.1\JumpClouds.pdb

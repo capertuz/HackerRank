@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\bin\Debug\netcoreapp2.1\InfiniteString.deps.json
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\bin\Debug\netcoreapp2.1\InfiniteString.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\bin\Debug\netcoreapp2.1\InfiniteString.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\bin\Debug\netcoreapp2.1\InfiniteString.dll
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\bin\Debug\netcoreapp2.1\InfiniteString.pdb
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\obj\Debug\netcoreapp2.1\InfiniteString.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\obj\Debug\netcoreapp2.1\InfiniteString.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\obj\Debug\netcoreapp2.1\InfiniteString.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\obj\Debug\netcoreapp2.1\InfiniteString.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\obj\Debug\netcoreapp2.1\InfiniteString.dll
+C:\Users\caper\source\repos\hackerrank\InfiniteString\InfiniteString\obj\Debug\netcoreapp2.1\InfiniteString.pdb

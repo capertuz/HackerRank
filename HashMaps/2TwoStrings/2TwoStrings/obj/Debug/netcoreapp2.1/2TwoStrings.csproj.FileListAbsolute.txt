@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\bin\Debug\netcoreapp2.1\2TwoStrings.deps.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\bin\Debug\netcoreapp2.1\2TwoStrings.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\bin\Debug\netcoreapp2.1\2TwoStrings.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\bin\Debug\netcoreapp2.1\2TwoStrings.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\bin\Debug\netcoreapp2.1\2TwoStrings.pdb
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\obj\Debug\netcoreapp2.1\2TwoStrings.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\obj\Debug\netcoreapp2.1\2TwoStrings.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\obj\Debug\netcoreapp2.1\2TwoStrings.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\obj\Debug\netcoreapp2.1\2TwoStrings.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\obj\Debug\netcoreapp2.1\2TwoStrings.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\2TwoStrings\2TwoStrings\obj\Debug\netcoreapp2.1\2TwoStrings.pdb
