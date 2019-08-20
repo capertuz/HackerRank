@@ -1,0 +1,11 @@
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\bin\Debug\netcoreapp2.1\TripletCount.deps.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\bin\Debug\netcoreapp2.1\TripletCount.runtimeconfig.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\bin\Debug\netcoreapp2.1\TripletCount.runtimeconfig.dev.json
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\bin\Debug\netcoreapp2.1\TripletCount.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\bin\Debug\netcoreapp2.1\TripletCount.pdb
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\obj\Debug\netcoreapp2.1\TripletCount.csprojAssemblyReference.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\obj\Debug\netcoreapp2.1\TripletCount.csproj.CoreCompileInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\obj\Debug\netcoreapp2.1\TripletCount.AssemblyInfoInputs.cache
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\obj\Debug\netcoreapp2.1\TripletCount.AssemblyInfo.cs
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\obj\Debug\netcoreapp2.1\TripletCount.dll
+C:\Users\caper\source\repos\hackerrank\HashMaps\TripletCount\TripletCount\obj\Debug\netcoreapp2.1\TripletCount.pdb
