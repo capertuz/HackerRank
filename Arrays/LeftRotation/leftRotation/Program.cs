@@ -20,8 +20,23 @@ class Solution
     // Complete the rotLeft function below.
     static int[] rotLeft(int[] a, int d)
     {
+        int length = a.Length;
+        int realRotations = d % length;
 
+        if (realRotations == 0) return a;
+        else
+        {
+            int[] b = new int[length];
+            int newindex;
+            for (int i = 0; i < length; i++)
+            {
+                newindex = i + realRotations;
+                if (newindex >= length) newindex = newindex - length;
+                b[i] = a[newindex];
+            }
 
+            return b;
+        }
     }
 
     static void Main(string[] args)
