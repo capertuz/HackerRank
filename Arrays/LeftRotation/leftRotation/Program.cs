@@ -18,25 +18,39 @@ class Solution
 {
 
     // Complete the rotLeft function below.
-    static int[] rotLeft(int[] a, int d)
+    static int[] rotLeft(int[] arr, int d)
     {
-        int length = a.Length;
-        int realRotations = d % length;
-
-        if (realRotations == 0) return a;
-        else
+        int n = arr.Length;
+        int i, j, k, temp;
+        int g_c_d = gcd(d, n);
+        for (i = 0; i < g_c_d; i++)
         {
-            int[] b = new int[length];
-            int newindex;
-            for (int i = 0; i < length; i++)
+            /* move i-th values of blocks */
+            temp = arr[i];
+            j = i;
+            while (true)
             {
-                newindex = i + realRotations;
-                if (newindex >= length) newindex = newindex - length;
-                b[i] = a[newindex];
+                k = j + d;
+                if (k >= n)
+                    k = k - n;
+                if (k == i)
+                    break;
+                arr[j] = arr[k];
+                j = k;
             }
-
-            return b;
+            arr[j] = temp;
         }
+
+        return arr;
+    }
+
+    /* Fuction to get gcd (greatest common divisor) of a and b*/
+    static int gcd(int a, int b)
+    {
+        if (b == 0)
+            return a;
+        else
+            return gcd(b, a % b);
     }
 
     static void Main(string[] args)
