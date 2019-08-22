@@ -22,7 +22,7 @@ class Solution
         int minBribes = 0;
         int thisPositionBribe;
         bool chaos = false;
-        for (int i = 0; i < length; i++)
+        for (int i = length-1; i >= 0; i--)
         {
             thisPositionBribe = q[i] - (i + 1);
             if (thisPositionBribe >= 3)
@@ -30,7 +30,9 @@ class Solution
                 chaos = true;
                 break;
             }
-            if (thisPositionBribe > 0) minBribes += thisPositionBribe;
+            //count the number of people who overtook a person.
+            for (int j = Math.Max(0, q[i] - 2); j < i; j++)
+                if (q[j] > q[i]) minBribes++;
         }
         if(chaos) Console.WriteLine("Too chaotic");
         else      Console.WriteLine(minBribes);
