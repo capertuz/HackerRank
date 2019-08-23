@@ -18,8 +18,24 @@ class Solution
     // Complete the arrayManipulation function below.
     static long arrayManipulation(int n, int[][] queries)
     {
+        long[] a = new long[n];
+        int start;
+        int end;
+        int sum;
+        
+        for (int i = 0; i < queries.Length; i++)
+        {
+            start = queries[i][0];
+            end = queries[i][1];
+            sum = queries[i][2];
+            for (int j = start - 1; j <= end - 1; j++)
+            {
+                a[j] += sum;
+            }
+        }
 
-        return 0;
+
+        return a.Max();
     }
 
     static void Main(string[] args)
