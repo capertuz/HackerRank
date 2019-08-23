@@ -22,6 +22,7 @@ class Solution
         int start;
         int end;
         int sum;
+        long max = 0;
         
         for (int i = 0; i < queries.Length; i++)
         {
@@ -31,11 +32,12 @@ class Solution
             for (int j = start - 1; j <= end - 1; j++)
             {
                 a[j] += sum;
+                if (a[j] > max) max = a[j];
             }
         }
 
 
-        return a.Max();
+        return max;
     }
 
     static void Main(string[] args)
