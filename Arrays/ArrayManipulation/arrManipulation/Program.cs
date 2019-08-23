@@ -32,7 +32,7 @@ class Solution
             for (int j = start - 1; j <= end - 1; j++)
             {
                 a[j] += sum;
-                if (a[j] > max) max = a[j];
+                if (a[j] > max) max = a[j];//TEst
             }
         }
 
